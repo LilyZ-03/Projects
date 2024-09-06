@@ -2,6 +2,11 @@
 
 Past Projects:
 
+[Spectral Clustering for Drum Source Separation](https://colab.research.google.com/drive/1l-PdnCK9d0shHxMAEH0HjdbQMztT7d1Q?usp=sharing), April 2024 - May 2024.
+- Carried out and tuned unsupervised spectral clustering for Hip-Hop drum samples with Python
+- Tested different algorithms to select the optimal clustering algorithm
+- trained audio dictionaries on clusters, carried out source separation with non-negative matrix factorization.
+
 [Dance Formation Assistant](https://www.youtube.com/watch?v=73peTkqb1Xg), September 2020 - March 2021.
 - The video demo of my individual project, a desktop app written with Python and PyQt, to assist choreographers with dance formation arrangement.
 
